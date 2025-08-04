@@ -1,0 +1,10 @@
+[
+  {
+    "label": "Zig Build",
+    "command": "/Users/shade/Dev/zig-0.15.1283-master/zig",
+    "args": ["build"],
+    "use_new_terminal": false,
+    "reveal": "always",
+    "hide": "never"
+  }
+]
